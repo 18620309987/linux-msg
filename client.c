@@ -1,3 +1,4 @@
+//客户端主程序 by tu98tu
 #include "comm.h"
 
 int main()
