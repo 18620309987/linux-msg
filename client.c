@@ -10,6 +10,7 @@ int main()
         printf("Please Enter# ");
         fflush(stdout);
         
+		//注示：读取 by lijinting
         ssize_t s = read(0, buf, sizeof(buf));
         if(s > 0)
         {
