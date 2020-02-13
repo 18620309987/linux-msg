@@ -4,7 +4,7 @@
 int main()
 {
     int msgid = getMsgQueue();
-
+	//test diff
     char buf[1024] = {0};
     while(1)
     {
