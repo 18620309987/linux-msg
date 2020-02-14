@@ -22,5 +22,5 @@ int getMsgQueue();
 int destoryMsgQueue(int msg_id);
 int sendMsgQueue(int msg_id, int who, char* msg);
 int recvMsgQueue(int msg_id, int recvType, char out[]);
-
+//test patch
 #endif
